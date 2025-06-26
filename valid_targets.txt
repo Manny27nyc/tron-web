@@ -1,0 +1,61 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
+./test/setup/node.js
+./test/setup/browser.js
+./test/utils/abi.test.js
+./test/utils/bytes.test.js
+./test/utils/code.test.js
+./test/utils/base58.test.js
+./test/utils/index.test.js
+./test/utils/accounts.test.js
+./test/index.test.js
+./test/lib/contract/method.test.js
+./test/lib/plugin.test.js
+./test/lib/providers.test.js
+./test/lib/trx.test.js
+./test/lib/transactionBuilder.test.js
+./test/lib/event.test.js
+./test/fixtures/contracts.js
+./test/helpers/wait.js
+./test/helpers/broadcaster.js
+./test/helpers/pollAccountFor.js
+./test/helpers/jlog.js
+./test/helpers/log.js
+./test/helpers/config.js
+./test/helpers/assertThrow.js
+./test/helpers/newAccounts.js
+./test/helpers/tronWebBuilder.js
+./test/helpers/getnowblock.js
+./test/helpers/txPars.js
+./test/helpers/assertEqualHex.js
+./webpack.config.js
+./karma.conf.js
+./examples/server/index.js
+./examples/browser/demo.js
+./scripts/pre-push.js
+./scripts/test-node.js
+./scripts/test-browser.js
+./valid_targets.txt
+./src/index.js
+./src/utils/code.js
+./src/utils/address.js
+./src/utils/accounts.js
+./src/utils/index.js
+./src/utils/base64.js
+./src/utils/help.js
+./src/utils/bytes.js
+./src/utils/crypto.js
+./src/utils/abi.js
+./src/utils/base58.js
+./src/lib/contract/index.js
+./src/lib/contract/method.js
+./src/lib/event.js
+./src/lib/providers/index.js
+./src/lib/providers/HttpProvider.js
+./src/lib/trx.js
+./src/lib/transactionBuilder.js
+./src/lib/plugin.js
