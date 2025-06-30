@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const chai = require('chai');
 const {ADDRESS_HEX, ADDRESS_BASE58} = require('../helpers/config');
 const tronWebBuilder = require('../helpers/tronWebBuilder');

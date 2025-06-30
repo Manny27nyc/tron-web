@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {hexStr2byteArray} from './code';
 import {
     getBase58CheckAddress,

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as accounts from './accounts';
 import * as base58 from './base58';
 import * as bytes from './bytes';

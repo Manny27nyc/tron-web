@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 module.exports = (...x) => {
     for(let i = 0; i < x.length; i++) {
         let y = x[i]

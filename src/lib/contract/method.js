@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import utils from 'utils';
 
 const getFunctionSelector = abi => {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const chai = require('chai');
 const {FULL_NODE_API} = require('../helpers/config');
 const assertThrow = require('../helpers/assertThrow');

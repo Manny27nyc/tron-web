@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const {execSync, spawn} = require('child_process')
 const chalk = require('chalk')
 

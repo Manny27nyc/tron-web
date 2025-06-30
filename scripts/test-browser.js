@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const fs = require('fs');
 const path = require('path');
 const target = path.resolve(__dirname, '..', 'test', 'setup', 'TronWeb.js');

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const tronWebBuilder = require('../helpers/tronWebBuilder');
 
 module.exports = async function (func, pk, transaction) {

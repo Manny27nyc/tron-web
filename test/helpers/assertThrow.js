@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const assert = require('chai').assert;
 
 module.exports = async function (func, expectedError, expectedErrorContains) {

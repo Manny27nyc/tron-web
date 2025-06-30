@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const chai = require('chai');
 const assert = chai.assert;
 const txPars = require('../helpers/txPars');

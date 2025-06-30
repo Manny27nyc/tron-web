@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Base64} from './base64';
 
 export function byte2hexStr(byte) {

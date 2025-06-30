@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import TronWeb from 'index';
 import utils from 'utils';
 import semver from 'semver';

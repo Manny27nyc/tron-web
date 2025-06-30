@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const chalk = require('chalk')
 const TronWeb = require('../setup/TronWeb');
 const jlog = require('./jlog')

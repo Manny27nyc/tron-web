@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const _ = require('lodash');
 const wait = require('./wait');
 const tronWebBuilder = require('./tronWebBuilder')

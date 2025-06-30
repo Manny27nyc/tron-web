@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const fullHost = "http://127.0.0.1:" + (process.env.HOST_PORT || 9090)
 
 module.exports = {

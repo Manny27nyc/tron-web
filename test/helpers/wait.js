@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 function sleep(millis) {
     return new Promise(resolve => setTimeout(resolve, millis));
 }

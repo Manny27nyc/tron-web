@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const chai = require('chai');
 const tronWebBuilder = require('../helpers/tronWebBuilder');
 const TronWeb = tronWebBuilder.TronWeb;

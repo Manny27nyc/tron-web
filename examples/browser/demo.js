@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const HttpProvider = TronWeb.providers.HttpProvider;
 
 const fullNode = new HttpProvider('https://api.trongrid.io');

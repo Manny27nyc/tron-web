@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const TronWeb = require('../../dist/TronWeb.node.js');
 
 const fullNode = 'http://127.0.0.1:9090';
